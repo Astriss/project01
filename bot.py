@@ -1,6 +1,6 @@
 '''Эхо - бот'''
 import telebot
-bot = telebot.TeleBot('6260812558:AAESxWW0ZkhWTa6lbvngRW7AV0H5jiUBJ4s')
+bot = telebot.TeleBot('high secret content')
 @bot.message_handler(commands=['start'])
 def start(message):
  bot.send_message(message.chat.id, "Привет! Поболтай со мной!")
