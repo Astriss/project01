@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T12:44:15.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" version="21.3.8" etag="ehhDcovCGORRmUON8FZj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T14:28:28.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" etag="ys0p0yFrfNOnFtOPkDh0" version="21.3.8" type="github">
   <diagram name="Страница 1" id="l8FLo3JvDaeCekWIVYb7">
-    <mxGraphModel>
+    <mxGraphModel dx="1877" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-1" value="МНН&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-4" value="Таблетки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-8" value="Сироп" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-9" value="Раствор для инъекций" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-10" value="И т.д" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-28" value="Формы выпуска&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-31" value="Стандартные дозировки&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-65" value="по 5 мг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-66" value="по 10 мг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-67" value="по 20 мг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-68" value="по 1 мл" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="420" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-69" value="по 4 мл" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="420" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-148" value="Торговое наименование 1" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-227" value="Торговое наименование 2" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="105" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-238" value="Торговое наименование (опционально)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="279" y="115" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k-x5iXB3s0qRzyvQ4gwM-240">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k-x5iXB3s0qRzyvQ4gwM-240" target="k-x5iXB3s0qRzyvQ4gwM-227">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-240" value="поиск по" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="18" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k-x5iXB3s0qRzyvQ4gwM-243" value="или" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="38" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
